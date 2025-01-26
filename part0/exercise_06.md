@@ -13,5 +13,5 @@ sequenceDiagram
     deactivate server
 
     Note right of browser: The browser executes the event handler (callback function) that renders the notes content (including the new note)
-´´´
+```
 ![exercise_06](https://github.com/user-attachments/assets/28be3773-c7c1-4928-9539-85568a32680c)
